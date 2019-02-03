@@ -1,0 +1,13 @@
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Debug\ThuatToanToMau.exe.config
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Debug\ThuatToanToMau.exe
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Debug\ThuatToanToMau.pdb
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.Form1.resources
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.Properties.Resources.resources
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.csproj.GenerateResource.Cache
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.exe
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.pdb
+E:\Freshman\HK5\ComputerGraphic\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.HelpForm.resources
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Debug\ThuatToanToMau.exe.config
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.exe
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Debug\ThuatToanToMau.pdb

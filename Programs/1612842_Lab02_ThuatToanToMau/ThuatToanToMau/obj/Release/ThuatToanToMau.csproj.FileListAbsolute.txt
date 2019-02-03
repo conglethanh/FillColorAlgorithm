@@ -1,0 +1,10 @@
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Release\ThuatToanToMau.exe.config
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Release\ThuatToanToMau.exe
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\bin\Release\ThuatToanToMau.pdb
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.Form1.resources
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.HelpForm.resources
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.Properties.Resources.resources
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.csproj.GenerateResource.Cache
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.exe
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612842\Programs\1612842_Lab02_ThuatToanToMau\ThuatToanToMau\obj\Release\ThuatToanToMau.pdb
